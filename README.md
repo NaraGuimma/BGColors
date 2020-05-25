@@ -1,3 +1,6 @@
 # BGColors
 Code in JavaScript
-check the result @ https://naraguimma.github.io/BGColors/
+
+
+
+Check the result @ https://naraguimma.github.io/BGColors/
